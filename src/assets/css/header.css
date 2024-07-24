@@ -1,0 +1,13 @@
+.header{
+
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    padding: 20px 0;
+    background-color: #4BB2F0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* position: fixed; */
+    width: 100%;
+    /* z-index: 1000; */
+    margin-bottom:20px;
+}

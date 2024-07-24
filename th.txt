@@ -1,0 +1,11 @@
+component:
+function based componnent : function keyword,arrow function
+class based....
+
+
+rafc
+
+3 ways to apply css in react
+1. inline css
+2. internal css
+3. external css
