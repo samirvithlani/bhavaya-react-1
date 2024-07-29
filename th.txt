@@ -9,3 +9,23 @@ rafc
 1. inline css
 2. internal css
 3. external css
+
+
+components based architecture
+
+1 -> b 
+
+communication between components
+
+props
+-----------------
+1)props stand for properties
+2)props are immutable
+3)props are used to pass data from parent to child component
+4)props is uni-directional
+
+limitations of props
+props drilling
+
+context api
+redux
