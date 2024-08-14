@@ -29,3 +29,12 @@ props drilling
 
 context api
 redux
+
+components ; class,function : class
+hooks:function based components
+all hook are starts with use
+use of hooks : to use state and lifecycle methods in functional based components
+
+virtual dom
+: it is a copy of real dom,but it is not real dom and lightweight
+diffing algorithm: it is used to compare the virtual dom with real dom and update only the changed part of the dom
